@@ -1,0 +1,3 @@
+'use strict';
+
+exports.jwtSecret = '2KlZhfUTdLzR7H5uLmjNuanSvCIALFcpqftPa0DyODqP9uqv6jUtiTfTizSqyns37Y03wSm8CnL1CvsJ9R-7q8C4taNSoNIwWG14DGBK06LbiUz9DQjVqEbvcpZFw-bU61LQzgS-jtQ7WL76R3KwVqIeN5fqOhTgXPh0z94kgK0';
